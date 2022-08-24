@@ -1,0 +1,5 @@
+helloworld
+teamone
+abcdefghijklmnopq
+huffmancode
+information
